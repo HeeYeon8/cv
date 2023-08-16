@@ -13,3 +13,10 @@ Google Scholar (https://scholar.google.com/citations?hl=en&user=lbWcMHcAAAAJ)
 ---
 
 Welcome to my CV! I am a passionate graduate student with experience in exploring the world of linguistics.
+
+My research interests include:
++ Syntax
++ Syntax-semantics interface
++ Natural Language Processing
++ Corpus Linguistics
++ Experimental Linguistics
