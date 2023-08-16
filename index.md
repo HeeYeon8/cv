@@ -3,7 +3,9 @@ MA Graduate student in English Language and Literature at Kyung Hee University
 \
 Contact [E-mail] heeyeonkim@khu.ac.kr | [Tel] (+82) 010-5489-4801 |
 \
-Google Scholar (https://scholar.google.com/citations?hl=en&user=lbWcMHcAAAAJ)
+Google Scholar (https://scholar.google.com/citations?hl=en&user=lbWcMHcAAAAJ) |
+\
+Academia (https://khu.academia.edu/HeeYeonKim)
 
 [Education](education.md) | [Research Experience](experience.md) | [Published Papers](published.md) | 
 [Conference Presentations](projects.md) | [Projects](projects.md) | 
