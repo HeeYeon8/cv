@@ -7,8 +7,7 @@ Google Scholar (https://scholar.google.com/citations?hl=en&user=lbWcMHcAAAAJ) |
 \
 Academia (https://khu.academia.edu/HeeYeonKim)
 
-[Education](education.md) | [Teaching and Research Experience](experience.md) | [Published Papers](published.md) | 
-[Conference Presentations](conference.md) | 
+[Education](education.md) | [Teaching and Research Experience](experience.md) | [Published Papers](published.md) | [Conference Presentations](conference.md) | 
 \
 [Grants and Awards](grants.md) | [Additional Education](addedu.md) | [Languages and Technical Skills](langtech.md)
 
