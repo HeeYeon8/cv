@@ -4,7 +4,7 @@
   
   DOI: [https://doi.org/10.15738/kjell.21..202105.414](https://doi.org/10.15738/kjell.21..202105.414)
   
-* Kim, Sungwoo and Hee-Yeon Kim. 2023. Alliance Burden-Sharing in System Polarities. _Korean Journal of Defense Analysis_
+* Kim, Sung-Woo and Hee-Yeon Kim. 2023. Alliance Burden-Sharing in System Polarities. _Korean Journal of Defense Analysis_
   35(1): 45-64. [Download PDF](heeyeon8/cv/Kim%20and%20Kim-2023.pdf)
   
   DOI: [https://doi.org/10.22883/kjda.2023.35.1.003](https://doi.org/10.22883/kjda.2023.35.1.003)
