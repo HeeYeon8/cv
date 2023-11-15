@@ -8,8 +8,9 @@ Academia: [Profile](https://khu.academia.edu/HeeYeonKim)
 
 ## Navigation
 - [Education](education.md)
-- [Teaching and Research Experience](experience.md)
-- [Published Papers](published.md)
+- [Experiences](experience.md)
+- [Projects](project.md)
+- [Publications](published.md)
 - [Conference Presentations](conference.md)
 - [Grants and Awards](grants.md)
 - [Additional Education](addedu.md)
