@@ -19,7 +19,8 @@ Academia: [Profile](https://khu.academia.edu/HeeYeonKim)
 
 Welcome to my CV! I am a passionate graduate student with experience in exploring the world of linguistics. My research interests include:
 - Syntax
+- Semantics
+- Pragmatics
 - Syntax-semantics interface
-- Natural Language Processing
 - Corpus Linguistics
 - Experimental Linguistics
