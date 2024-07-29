@@ -1,4 +1,4 @@
-**Spring 2023**
+**Spring 2023** </br>
 Teaching Assistant \
 Understanding English Syntactic Structures (Instructor: Prof. Jong-Bok Kim)\
 Department of English Language and Literature\
