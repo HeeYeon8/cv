@@ -6,3 +6,4 @@ investigation. <br/> Kim, Hee-Yeon and Jong-Bok Kim. <br/> Paper presented at _E
 University of Massachusetts Amherst, Amherst, MA. July 9. 
 * &#50;&#48;&#50;&#51;. Coordinated multiple _wh_-sluicing in English: A corpus-based
 investigation. <br/> Kim, Hee-Yeon and Jong-Bok Kim. <br/> Paper presented at _Purdue Linguistic Symposium 2023_. Purdue University, West Lafayette, IN. April 14. 
+* 2022. English _although_-stripping constructions: A corpus-based investigation. <br/> Park, Seulkee, Hee-Yeon Kim, and Jong-Bok Kim. <br/> The 2022 Fall Joint Conference of Korean Association for the Study of English Language and Linguistics (KASELL) & Korean Association for Corpus Linguistics (KACL). Pusan, Korea: Pusan University. October 22.
